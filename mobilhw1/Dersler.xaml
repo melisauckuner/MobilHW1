@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobilhw1.Dersler">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Bu Dönem Yürütülen Lisans ve Lisansüstü Ders Bilgileri"
+              VerticalOptions="Start"
+               HorizontalTextAlignment="Start"
+               IsVisible="true"
+               FontSize="Medium"
+               FontAttributes="None"
+               TextColor="DarkRed" />
+            <Label Text="BIL519 - İleri Algoritma Analizi"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIL551 - İleri Veri Tabanı Yönetim Sistemleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIL561 - Bulanık Sinir Ağları"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIL567 - Öneri Sistemlerine Giriş"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM101 - Bilgisayar Programlama I"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM203 - Mantık Tasarımı"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM207 - Bilgisayar Programlama III"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM209 - Yazılım Tasarlama ve Geliştirme Prensipleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM213 - Veri Yapıları ve Algoritmalar"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM302 - Bilgisayar Ağları"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM303 - Mikrobilgisayarlar"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM305 - Bilgisayar Organizasyonu"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM306 - İşletim Sistemleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM308 - Web Sunucu Programlama"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM309 - Yapay Us"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM313 - İleri Programlama Teknikleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM314 - Hesaplama Kuramı"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM405 - Proje Yönetimi"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM423 - Yazılım Mühendisliği"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM437 - Bilgisayar Mühendisliği Tasarımları"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM439 - Veritabanı Yönetim Sistemleri Uygulamaları"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM451 - MVC ile Web Sunucu Programlama"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM466 - Bulanık Mantık"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM478 - Yönetim Bilişim Sistemleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM485 - Bilgisayar Bilimlerinde Araştırma I - L (Alper Bilge)"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM488 - Örüntü Tanımaya Giriş"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM490 - Bilgi Erişim Sistemleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM492 - Tasarım Örüntüleri"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="BIM493 - Mobil Programlama I"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="İST252 - Olasılık ve İstatistik"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="MAT249 - Lineer Cebir ve Diferansiyel Denklemler"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            <Label Text="MAT806 - Matematik II"
+
+            VerticalOptions="Start"
+
+               HorizontalTextAlignment="Start"
+
+               IsVisible="true"
+
+               FontSize="Small"
+
+               FontAttributes="None" />
+
+            
+             
+            <Label Text="Ders Etiği"
+              VerticalOptions="Start"
+               HorizontalTextAlignment="Start"
+               IsVisible="true"
+               FontSize="Medium"
+               FontAttributes="None"
+               TextColor="DarkRed" />
+            <Label Text="Akademik Dürüstlük Bildirisi"
+              VerticalOptions="Start"
+               HorizontalTextAlignment="Start"
+               IsVisible="true"
+               FontSize="Small"
+               FontAttributes="None"
+                />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

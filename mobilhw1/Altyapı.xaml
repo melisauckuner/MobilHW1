@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobilhw1.Altyapı">
+
+    <ContentPage.Content>
+
+        <StackLayout >
+
+
+            <TableView Intent="Form">
+
+                <TableRoot>
+                    <TableSection Title="">
+
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B1_icon.jpg" Text="Derslik-B1" Detail="Kapasite:36" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B2_icon.jpg" Text="Derslik-B2" Detail="Kapasite:15" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B3_icon.jpg" Text="Derslik-B3" Detail="Kapasite:18" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B4_icon.jpg" Text="Derslik-B4" Detail="Kapasite:24" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B5_icon.jpg" Text="Derslik-B5" Detail="Kapasite:15" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B6_icon.jpg" Text="Derslik-B6" Detail="Kapasite:24" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Class_B7_icon.jpg" Text="Derslik-B7" Detail="Kapasite:54" />
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Lab_PC1_icon.jpg" Text="Lab-01" Detail="61 PC"/>
+                        <ImageCell ImageSource="http://ceng.eskisehir.edu.tr/Documents/Lab_Mac1_icon.jpg" Text="Lab-02" Detail="24 iMac" />
+
+
+                    </TableSection>
+                </TableRoot>
+
+            </TableView>
+        </StackLayout>
+
+
+
+    </ContentPage.Content>
+</ContentPage>
+                  
